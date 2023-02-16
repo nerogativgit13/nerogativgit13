@@ -21,7 +21,7 @@ https://carbon.now.sh/ -->
 
 ---
 
-⭐️ From [@ayushkumar-25]((https://github.com/nerogativgit13))
+⭐️ From [@nerogativgit13]((https://github.com/nerogativgit13))
 
 <!-- TO make screenshot of your code, copy below link:  
 https://carbon.now.sh/ -->
