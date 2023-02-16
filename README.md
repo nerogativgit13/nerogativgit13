@@ -1,8 +1,6 @@
 ## Hay Hallo My Name Is Nerogativ13 Selamat Berkunjung Di Github Saya 
-[![](https://img.shields.io/badge/LinkedIn-ayushkumar25-blue)](https://www.linkedin.com/in/ayushkumar25/)
-[![](https://img.shields.io/badge/Gmail-ayush2608%40gmail.com-red)](mailto:ayush2608@gmail.com)
-[![](https://img.shields.io/badge/Telegram-%40ayushkumar__25-blue)](https://t.me/ayushkumar_25)
-[![](https://img.shields.io/badge/HackerRank-ayushkumar__25-brightgreen)](https://www.hackerrank.com/ayushkumar_25)
+[![](https://img.shields.io/badge/Gmail-ayush2608%40gmail.com-red)](mailto:evillworm2@gmail.com)
+[![](https://img.shields.io/badge/Telegram-%40ayushkumar__25-blue)](https://t.me/Nerogativ_gondes)
 
 ![](https://github.com/ayushkumar-25/ayushkumar-25/blob/master/aboutMe.png)
 <!-- TO make screenshot of your code, copy below link:  
@@ -23,7 +21,7 @@ https://carbon.now.sh/ -->
 
 ---
 
-⭐️ From [@ayushkumar-25](https://github.com/ayushkumar-25)
+⭐️ From [@ayushkumar-25]((https://github.com/nerogativgit13))
 
 <!-- TO make screenshot of your code, copy below link:  
 https://carbon.now.sh/ -->
