@@ -13,7 +13,7 @@ https://carbon.now.sh/ -->
 <!-- [![HitCount](http://hits.dwyl.com/ayushkumar-25/ayushkumar-25/ayushkumar-25.svg)](http://hits.dwyl.com/ayushkumar-25/ayushkumar-25/ayushkumar-25) -->
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ayushkumar-25.ayushkumar-25)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=nerogativ13)
 [![HitCount](http://hits.dwyl.com/ayushkumar-25/ayushkumar-25/ayushkumar-25.svg)](http://hits.dwyl.com/ayushkumar-25/ayushkumar-25/ayushkumar-25) <br>
 
 
